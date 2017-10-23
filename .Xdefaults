@@ -1,0 +1,43 @@
+
+!!!!!!!!!!!!!!!!!!!!!!!!
+! snazzy color  scheme !
+!!!!!!!!!!!!!!!!!!!!!!!!
+
+URxvt.background: #282a36
+URxvt.foreground: #eff0eb
+
+! original #86a2b0
+URxvt.colorUL: #eff0eb
+URxvt.underlineColor: #eff0eb
+
+! black
+URxvt.color0  : #2E3436
+URxvt.color8  : #686868
+
+! red
+URxvt.color1  : #ff5c57
+URxvt.color9  : #ff5c57
+
+! green
+URxvt.color2  : #5af78e
+URxvt.color10 : #5af78e
+
+! yellow
+URxvt.color3  : #f3f99d
+URxvt.color11 : #f3f99d
+
+! blue
+URxvt.color4  : #57c7ff
+URxvt.color12 : #57c7ff
+
+! magenta
+URxvt.color5  : #ff6ac1
+URxvt.color13 : #ff6ac1
+
+! cyan
+URxvt.color6  : #9aedfe
+URxvt.color14 : #9aedfe
+
+! white
+URxvt.color7  : #f1f1f0
+URxvt.color15 : #eff0eb
